@@ -18,7 +18,7 @@ const Dashboard = () => {
                 <img className='w-7 ml-24' src='home.png'></img>
                 </button>
 
-                <p className='mt-10 ml-7 text-xl'>By Price</p>
+                <p className='mt-10 ml-7 text-xl'>By </p>
                 <input className='mt-7 ml-7' type='checkbox'/>
                  <span className='text-sm ml-2'>Lower to higher</span> <br/>
                 <input className='mt-5 ml-7'  type='checkbox'/>
