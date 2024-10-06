@@ -17,7 +17,7 @@ const Navbar = () => {
                         <button className="text-gray-800 hover:bg-gray-300 px-3 py-2 rounded">Message</button>
                         <button className="text-gray-800 hover:bg-gray-300 px-3 py-2 rounded">Post</button>
                         <button className="text-gray-800 hover:bg-gray-300 px-3 py-2 rounded">Login</button>
-                        <button className="text-gray-800 hover:bg-gray-300 px-3 py-2 rounded">loginupUp</button>
+                        <button className="text-gray-800 hover:bg-gray-300 px-3 py-2 rounded">SignUp</button>
                     </div>
                     <div className="md:hidden">
                         <button onClick={toggleMenu} className="text-gray-800 focus:outline-none">
